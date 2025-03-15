@@ -12,7 +12,7 @@ export async function generateTeamNames(playerList: string): Promise<string[]> {
       The names should be:
       - Clever wordplay or puns based on player names
       - Baseball-themed
-      - Family-friendly
+      - include some raunchy or mature suggestions
       - Short and catchy (1-5 words)
       - Unique from each other
       
